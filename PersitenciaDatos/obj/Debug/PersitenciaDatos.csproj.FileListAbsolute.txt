@@ -1,0 +1,9 @@
+E:\Programacion_I_2019\2019\Clase\PersitenciaDatos\PersitenciaDatos\bin\Debug\PersitenciaDatos.exe.config
+E:\Programacion_I_2019\2019\Clase\PersitenciaDatos\PersitenciaDatos\bin\Debug\PersitenciaDatos.exe
+E:\Programacion_I_2019\2019\Clase\PersitenciaDatos\PersitenciaDatos\bin\Debug\PersitenciaDatos.pdb
+E:\Programacion_I_2019\2019\Clase\PersitenciaDatos\PersitenciaDatos\obj\Debug\PersitenciaDatos.csprojAssemblyReference.cache
+E:\Programacion_I_2019\2019\Clase\PersitenciaDatos\PersitenciaDatos\obj\Debug\PersitenciaDatos.frmABM.resources
+E:\Programacion_I_2019\2019\Clase\PersitenciaDatos\PersitenciaDatos\obj\Debug\PersitenciaDatos.Properties.Resources.resources
+E:\Programacion_I_2019\2019\Clase\PersitenciaDatos\PersitenciaDatos\obj\Debug\PersitenciaDatos.csproj.GenerateResource.cache
+E:\Programacion_I_2019\2019\Clase\PersitenciaDatos\PersitenciaDatos\obj\Debug\PersitenciaDatos.exe
+E:\Programacion_I_2019\2019\Clase\PersitenciaDatos\PersitenciaDatos\obj\Debug\PersitenciaDatos.pdb
